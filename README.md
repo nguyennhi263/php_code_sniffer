@@ -92,7 +92,7 @@ To read more usage, visit: https://github.com/squizlabs/PHP_CodeSniffer/wiki/Usa
 5. Right-click on your external tool and select "Add Keyboard Shortcut".
 6. In the dialog that appears, press the desired key combination for your shortcut. Make sure it doesn't conflict with any existing shortcuts.
 7. Click "OK" to save the keyboard shortcut.
-8. Then chill with your phpcs by using shortcut
+8. Then chill with your phpcs by using shortcut with any project in PHPSTORM
 
 ![key_map](./phpstorm_settings/key_map.png)
 
