@@ -1,4 +1,4 @@
-# php_code_sniffer with docker
+# PHP Code Sniffer with Docker
 Hi bro ✨ This project will help you set up https://github.com/squizlabs/PHP_CodeSniffer with docker
 
 ## Project setup
